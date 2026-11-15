@@ -1,0 +1,144 @@
+COPYRIGHT (C) 2026 RUSSELL PHILIP SMITHSON. ALL RIGHTS RESERVED.
+
+Corpus Compendium on Rails:
+A Unified Parallel-Theory and Coupled-Mechanics Redesign of 80 Quantitative
+Fields
+
+Copyright (C) 2026 Russell Philip Smithson.
+Repository: https://github.com/LKVexa/Corpus-Compendium
+
+
+SCOPE OF THE CLAIM
+
+Copyright is claimed in the original authorship contained in this
+repository, namely:
+
+  1. The text of the 81 PDF files listed below, including the preface,
+     part and field introductions, entry glosses (Symbols, Origin, Use),
+     linear-algebraic restatements, proofs, remarks and status lines, as
+     written.
+
+  2. The Part 0 apparatus as written: its definitions, statements, proofs
+     and remarks.
+
+  3. The selection, coordination and arrangement of the 4,805 entries into
+     80 fields and four rails, together with the cross-rail concordance.
+
+  4. The figures and their captions, to the extent they are the original
+     work of the author.
+
+
+MATERIAL NOT CLAIMED
+
+No claim is made in, and nothing in this repository restricts the use of:
+
+  - mathematical and scientific facts, equations, laws, constants,
+    theorems, algorithms, methods, concepts or ideas, including the
+    classical results restated in the Work (see 17 U.S.C. Sec. 102(b));
+
+  - the names of theorems, laws, people, products, software, missions,
+    organizations and standards, which identify their originators or
+    owners (see NOTICE);
+
+  - any third-party material, or any material generated without human
+    authorship.
+
+
+FILES COVERED
+
+  00_Introduction_and_Apparatus.pdf
+  01_Station_01_Pure_Mathematics.pdf
+  02_Station_02_Applied_Mathematics.pdf
+  03_Station_03_Mathematical_Analysis.pdf
+  04_Station_04_Calculus.pdf
+  05_Station_05_Linear_Algebra.pdf
+  06_Station_06_Abstract_Algebra.pdf
+  07_Station_07_Geometry.pdf
+  08_Station_08_Topology.pdf
+  09_Station_09_Number_Theory.pdf
+  10_Station_10_Combinatorics.pdf
+  11_Station_11_Differential_Equations.pdf
+  12_Station_12_Dynamical_Systems.pdf
+  13_Station_13_Probability_Theory.pdf
+  14_Station_14_Statistics.pdf
+  15_Station_15_Computational_Mathematics.pdf
+  16_Station_16_Numerical_Analysis.pdf
+  17_Station_17_Optimization.pdf
+  18_Station_18_Operations_Research.pdf
+  19_Station_19_Decision_Theory.pdf
+  20_Station_20_Game_Theory.pdf
+  21_Station_21_Classical_Mechanics.pdf
+  22_Station_22_Continuum_Mechanics.pdf
+  23_Station_23_Coupled_Mechanics.pdf
+  24_Station_24_Fluid_Dynamics.pdf
+  25_Station_25_Aerodynamics.pdf
+  26_Station_26_Thermodynamics.pdf
+  27_Station_27_Statistical_Mechanics.pdf
+  28_Station_28_Electromagnetism.pdf
+  29_Station_29_Optics.pdf
+  30_Station_30_Photonics.pdf
+  31_Station_31_Acoustics.pdf
+  32_Station_32_Quantum_Mechanics.pdf
+  33_Station_33_Relativity.pdf
+  34_Station_34_Gravitational_Physics.pdf
+  35_Station_35_Nuclear_Physics.pdf
+  36_Station_36_Particle_Physics.pdf
+  37_Station_37_Condensed-Matter_Physics.pdf
+  38_Station_38_Plasma_Physics.pdf
+  39_Station_39_Astrophysics.pdf
+  40_Station_40_Astronomy.pdf
+  41_Station_41_Cosmology.pdf
+  42_Station_42_Physical_Chemistry.pdf
+  43_Station_43_Quantum_Chemistry.pdf
+  44_Station_44_Computational_Chemistry.pdf
+  45_Station_45_Geophysics.pdf
+  46_Station_46_Meteorology.pdf
+  47_Station_47_Climate_Science.pdf
+  48_Station_48_Oceanography.pdf
+  49_Station_49_Hydrology.pdf
+  50_Station_50_Biophysics.pdf
+  51_Station_51_Quantitative_Biology.pdf
+  52_Station_52_Bioinformatics.pdf
+  53_Station_53_Systems_Biology.pdf
+  54_Station_54_Population_Genetics.pdf
+  55_Station_55_Epidemiology.pdf
+  56_Station_56_Biostatistics.pdf
+  57_Station_57_Computational_Neuroscience.pdf
+  58_Station_58_Computer_Science.pdf
+  59_Station_59_Data_Science.pdf
+  60_Station_60_Machine_Learning.pdf
+  61_Station_61_Artificial_Intelligence.pdf
+  62_Station_62_Robotics.pdf
+  63_Station_63_Control_Theory.pdf
+  64_Station_64_Electrical_Engineering.pdf
+  65_Station_65_Mechanical_Engineering.pdf
+  66_Station_66_Aerospace_Engineering.pdf
+  67_Station_67_Structural_Engineering.pdf
+  68_Station_68_Chemical_Engineering.pdf
+  69_Station_69_Economics.pdf
+  70_Station_70_Econometrics.pdf
+  71_Station_71_Quantitative_Finance.pdf
+  72_Station_72_Actuarial_Science.pdf
+  73_Station_73_Quantitative_Psychology.pdf
+  74_Station_74_Quantitative_Sociology.pdf
+  75_Station_75_Demography.pdf
+  76_Station_76_Geographic_Information_Science.pdf
+  77_Station_77_Network_Science.pdf
+  78_Station_78_Complexity_Science.pdf
+  79_Station_79_Information_Theory.pdf
+  80_Station_80_Parallel_and_Distributed_Computing.pdf
+
+Later editions and corrections of these files are covered by this notice
+unless they state otherwise.
+
+
+USE AND ATTRIBUTION
+
+Use of the Work is governed by the LICENSE file in this repository.
+Required attribution and third-party notices are in the NOTICE file.
+
+Suggested citation:
+
+  Smithson, R. P. (2026). Corpus Compendium on Rails: A Unified
+  Parallel-Theory and Coupled-Mechanics Redesign of 80 Quantitative
+  Fields. https://github.com/LKVexa/Corpus-Compendium
