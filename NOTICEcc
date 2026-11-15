@@ -1,0 +1,43 @@
+Corpus Compendium on Rails
+COPYRIGHT (C) 2026 RUSSELL PHILIP SMITHSON. ALL RIGHTS RESERVED.
+
+This NOTICE accompanies the Work published at
+https://github.com/LKVexa/Corpus-Compendium. Any copy or excerpt made
+under the LICENSE must keep the copyright line above and this credit:
+
+  "Corpus Compendium on Rails, (C) 2026 Russell Philip Smithson,
+  https://github.com/LKVexa/Corpus-Compendium"
+
+
+1. Classical results
+
+The Work restates equations, laws, theorems, constants and methods that
+others discovered and that bear their names, such as the Navier-Stokes
+equations, the Black-Scholes formula, Gödel's incompleteness theorems and
+Kleiber's law. These belong to the scientific record. They are not
+claimed by the Copyright Holder, and their names are used only to
+identify the results and their originators.
+
+
+2. Names and trademarks
+
+Names of products, software, missions, instruments, organizations and
+standards that appear in the Work - for example LIGO, AlphaFold, Rosetta,
+BLAST, DESeq2, IEEE 754, WGS84, EPSG, TEOS-10, API 520 and Solvency II -
+belong to their respective owners. They are used for identification only
+and imply no endorsement of, or affiliation with, the Work.
+
+
+3. Values and accuracy
+
+Physical constants, numerical values and empirical parameters are quoted
+from the published literature for convenience and are not warranted.
+Check them against primary sources and current standards before use. The
+Work is not professional engineering, medical, financial, actuarial, legal
+or safety advice; see the LICENSE for the full disclaimer.
+
+
+4. Corrections
+
+Errors can be reported by opening an issue at
+https://github.com/LKVexa/Corpus-Compendium/issues.

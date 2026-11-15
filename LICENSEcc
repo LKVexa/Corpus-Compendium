@@ -1,0 +1,123 @@
+Corpus Compendium on Rails - Proprietary License (All Rights Reserved)
+
+COPYRIGHT (C) 2026 RUSSELL PHILIP SMITHSON. ALL RIGHTS RESERVED.
+
+
+1. DEFINITIONS
+
+"Work" means the documents in this repository, including every PDF file
+listed in the COPYRIGHT file, their text, figures and tables, and the
+selection and arrangement of their contents, in any version or format.
+
+"Copyright Holder" means Russell Philip Smithson.
+
+"You" means any person or entity that accesses or uses the Work.
+
+
+2. RESERVATION OF RIGHTS
+
+The Work is protected by copyright law and international treaties. All
+rights not expressly granted in Section 3 are reserved by the Copyright
+Holder. No license is granted by implication or estoppel.
+
+
+3. PERMITTED USES
+
+Provided You comply with this License, You may, free of charge:
+
+  (a) view, read and download the Work, and make the copies needed to do
+      so, for Your own personal, non-commercial study, teaching
+      preparation or research;
+
+  (b) quote brief excerpts in criticism, commentary, review, teaching or
+      research, with the attribution in Section 7; and
+
+  (c) view and fork this repository within GitHub to the extent the GitHub
+      Terms of Service provide for public repositories.
+
+
+4. RESTRICTIONS
+
+Except as permitted in Section 3 or by applicable law, You may not,
+without the Copyright Holder's prior written permission:
+
+  (a) copy, publish, distribute, sell, rent, sublicense or otherwise make
+      the Work available to others, in whole or in substantial part, in
+      any form or medium;
+
+  (b) modify, translate or adapt the Work, or create derivative works
+      from it;
+
+  (c) incorporate the Work, or a substantial part of it, into another
+      book, course, database, dataset, website, software or product;
+
+  (d) use the Work for text and data mining, or to train or fine-tune
+      machine-learning or artificial-intelligence systems, or to compile
+      datasets for those purposes; or
+
+  (e) remove, obscure or alter any copyright notice, this License, the
+      COPYRIGHT file or the NOTICE file.
+
+
+5. TEXT AND DATA MINING RESERVATION
+
+The Copyright Holder expressly reserves the right to carry out, and to
+authorize, text and data mining of the Work, including for the purposes
+of Article 4(3) of Directive (EU) 2019/790 and comparable laws.
+
+
+6. WHAT THIS LICENSE DOES NOT RESTRICT
+
+  (a) Copyright in the Work does not extend to the facts, equations, laws,
+      constants, theorems, methods or ideas it describes. Nothing in this
+      License restricts anyone from using them.
+
+  (b) Nothing in this License limits fair use, fair dealing or any other
+      exception or limitation provided by applicable law.
+
+
+7. ATTRIBUTION
+
+Any permitted quotation must credit:
+
+  "Corpus Compendium on Rails, (C) 2026 Russell Philip Smithson,
+  https://github.com/LKVexa/Corpus-Compendium"
+
+
+8. PERMISSIONS
+
+Requests for uses beyond Section 3, including commercial, institutional
+or redistribution licenses, may be made by opening an issue at
+https://github.com/LKVexa/Corpus-Compendium/issues. A permission exists
+only if the Copyright Holder grants it in writing.
+
+
+9. DISCLAIMER OF WARRANTY
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF ACCURACY,
+COMPLETENESS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR
+NON-INFRINGEMENT. THE WORK MAY CONTAIN ERRORS. IT IS NOT PROFESSIONAL
+ENGINEERING, MEDICAL, FINANCIAL, ACTUARIAL, LEGAL OR SAFETY ADVICE.
+VERIFY ANY FORMULA, CONSTANT OR STATEMENT AGAINST PRIMARY SOURCES BEFORE
+RELYING ON IT.
+
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+THE WORK OR ITS USE.
+
+
+11. TERMINATION
+
+Your permissions under Section 3 end automatically if You breach this
+License. Sections 6, 9 and 10 survive termination.
+
+
+12. SEVERABILITY
+
+If any provision of this License is held unenforceable, the remaining
+provisions remain in full effect.
